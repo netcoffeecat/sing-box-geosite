@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+			    "ip.sb",
+				"qichiyu.com",
+                "v2rayssr.com"
+			],
+            "domain_suffix": [
+                "qichiyu.com",
+                "v2rayssr.com"
+            ],
+			 "domain_keyword": [
+				"qichiyu",
+                "v2rayssr"
+			]
+        }
+    ]
+}
