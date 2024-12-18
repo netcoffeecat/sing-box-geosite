@@ -2,30 +2,34 @@
   "rules": [
     {
       "domain": [
-        "mobilefuse.com",
-	"inmobi.com",
-	"crashlytics.com",
-	"kochava.com",
-	"cohere.com",
-	"ip-api.com",
-	"talkatone.com",
-	"tenor.com",
+	"tktn.be",
 	"agkn.com",
-	"tktn.at"
+	"cohere.com",
+	"crashlytics.com",
+	"inmobi.com",
+	"inner-active.mobi",
+	"ip-api.com",
+	"kochava.com",
+	"mobilefuse.com",
+	"talkatone.com",
+	"tktn.at",
+	"tenor.com"
       ]
     },
     {
       "domain_suffix": [
-	"mobilefuse.com",
-	"inmobi.com",
-	"crashlytics.com",
-	"kochava.com",
-	"cohere.com",
-	"ip-api.com",
-	"talkatone.com",
-	"tenor.com",
+	"tktn.be",
 	"agkn.com",
-	"tktn.at"
+	"cohere.com",
+	"crashlytics.com",
+	"inmobi.com",
+	"inner-active.mobi",
+	"ip-api.com",
+	"kochava.com",
+	"mobilefuse.com",
+	"talkatone.com",
+	"tktn.at",
+	"tenor.com"
       ]
     },
     {
