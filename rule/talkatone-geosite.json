@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "rules": [
+        {
+        "domain_suffix": [
+        "mobilefuse.com",
+				"inmobi.com",
+				"crashlytics.com",
+				"kochava.com",
+				"cohere.com",
+				"ip-api.com",
+				"tktn.be",
+				"talkatone.com",
+				"tenor.com",
+				"agkn.com",
+				"tktn.at"
+            ]
+        }
+    ]
+}
