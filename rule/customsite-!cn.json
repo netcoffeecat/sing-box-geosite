@@ -2,7 +2,6 @@
   "rules": [
     {
       "domain": [
-        "ip.sb",
 	"qichiyu.com",
         "v2rayssr.com"
       ]
