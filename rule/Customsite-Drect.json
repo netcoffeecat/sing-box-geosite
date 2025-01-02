@@ -1,1 +1,10 @@
-
+{
+  "rules": [
+    {
+      "domain_suffix": [
+	      "tangnin.ggff.net"
+      ]
+    }
+  ],
+  "version": 2
+}
