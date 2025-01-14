@@ -2,12 +2,12 @@
   "rules": [
     {
       "domain_suffix": [
-	      "tangnin.ggff.net"
+	"tangnin.ggff.net"
       ]
     },
      {
       "domain_keyword": [
-              "kkys"
+        "kkys"
       ]
     }
   ],
