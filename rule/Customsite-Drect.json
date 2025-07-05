@@ -2,7 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-	"tangnin.ggff.net"
+	"tangnin.ggff.net",
+	"time.windows.com"
       ]
     },
      {
